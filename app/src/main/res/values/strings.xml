@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">swype</string>
+    <string name="explore">explore</string>
+    <string name="create">create</string>
+    <string name="my_scrypts">my scrypts</string>
+    <string name="enter_code_here">enter code here</string>
+    <string name="print_when_saving">print when saving</string>
+    <string name="name">name</string>
+    <string name="register">register</string>
+    <string name="login">login</string>
+    <string name="sign_out">sign out</string>
+    <string name="print">print</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="search">search</string>
+    <string name="no_internet">can\'t connect. please check your network settings and try again</string>
+</resources>
